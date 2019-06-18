@@ -1,5 +1,5 @@
 {
-    "name": "php-http/guzzle6-adapter",
+    "name": "gogoprint/guzzle6-adapter",
     "description": "Guzzle 6 HTTP Adapter",
     "license": "MIT",
     "keywords": ["guzzle", "http"],
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "^7.0",
         "php-http/httplug": "^2.0",
         "psr/http-client": "^1.0",
         "guzzlehttp/guzzle": "^6.0"
